@@ -1,0 +1,32 @@
+
+:root {
+    --Background-color: #ffffff;
+    --Text-primary: #000000;
+    --button-background: #000000;
+    --button-text: #ffffff;
+}
+
+.container {
+    background-color: var(--Background-color);
+    color: var(--Text-primary);
+    height: 100vh;
+    padding: 20px;
+}
+
+.container[data-theme='Dark'] {
+    --Background-color:  #000000;;
+    --Text-primary:  #ffffff;
+    --button-background: #ffffff;
+    --button-text: #000000;
+}
+
+.container button {
+    background-color: var(--button-background);
+    color: var(--button-text);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}

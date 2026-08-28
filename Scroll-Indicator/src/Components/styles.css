@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+}
+
+.container {
+    margin: 20px auto;
+    width: 300px;
+    height: 100vh;
+}
+
+.title {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.scroll-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background-color: #757575;
+}

@@ -1,0 +1,31 @@
+
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}   
+
+
+button {
+      margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #858282;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.color-text {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 100px;
+    font-size: 25px;
+}

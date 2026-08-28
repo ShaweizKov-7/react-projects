@@ -1,0 +1,37 @@
+
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+.tabs-container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.tab {
+    text-align: center;
+    padding: 20px 30px;
+    width: 100px;
+    background-color: #646363;
+    font-size: 20px;
+    border-radius: 7px;
+    cursor: pointer;
+    color: white;
+}
+
+
+.active {
+    background-color: #acacac;
+}
+
+
+.tab-content {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}

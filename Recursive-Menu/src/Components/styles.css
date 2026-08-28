@@ -1,0 +1,40 @@
+
+.container {
+ display: flex;
+ flex-direction: column;
+ height: 100vh;
+ width: 400px;
+background-color: #6d6c6c;
+  padding: 15px;
+}
+
+.list-container {
+    background-color: #6d6c6c;
+    width: 90%;
+
+}
+
+.menu-list {
+    padding-left: 30px;
+}
+
+.menu-list {
+    padding-left: 30px;
+}
+
+li {
+    list-style: none;
+}
+
+.parent-container {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    align-content: center;
+    margin-bottom: 20px;
+    width: 90%;
+}

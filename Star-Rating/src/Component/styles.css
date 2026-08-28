@@ -1,0 +1,12 @@
+ .container {
+   display: flex;
+   justify-content: center;
+ }
+
+.active {
+    color: #949292;
+}
+
+.inactive {
+    color: #212121;
+}
