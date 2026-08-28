@@ -11,12 +11,12 @@ These projects focus on core React concepts such as state management, props, eve
 | [Recursive Menu](./Recursive-Menu) | Dynamic nested menu using recursive components | [Live Demo](https://react-tree-menu.vercel.app/) |
 | [Load More Products](./LoadMoreProducts) | Product list with API data and load more functionality | [Live Demo](https://load-more-products.vercel.app/) |
 | [Image Slider](./Image-Slider) | Image slider with previous and next navigation | [Live Demo](https://react-image-slider-psi.vercel.app/) |
-| [Star Rating](./Star-Rating) | Interactive star rating component | [Live Demo](YOUR-LINK) |
-| [Light/Dark Theme Mode](./Light-Dark-Theme-Mode) | Theme switching with persistent theme state | [Live Demo](YOUR-LINK) |
-| [Accordion](./Accordion) | Expandable accordion component | [Live Demo](YOUR-LINK) |
-| [Color Changer](./Color-Changer) | Dynamic background color changer | [Live Demo](YOUR-LINK) |
-| [Scroll Indicator](./Scroll-Indicator) | Scroll progress indicator | [Live Demo](YOUR-LINK) |
-| [Tabs](./Tabs) | Tab-based content switching component | [Live Demo](YOUR-LINK) |
+| [Star Rating](./Star-Rating) | Interactive star rating component | [Live Demo](https://star-rating-neon.vercel.app/) |
+| [Light/Dark Theme Mode](./Light-Dark-Theme-Mode) | Theme switching with persistent theme state | [Live Demo](https://light-dark-theme-mode.vercel.app/) |
+| [Accordion](./Accordion) | Expandable accordion component | [Live Demo](https://react-projects-nine-dun.vercel.app/) |
+| [Color Changer](./Color-Changer) | Dynamic background color changer | [Live Demo](https://random-color-generator-kappa-eosin.vercel.app/) |
+| [Scroll Indicator](./Scroll-Indicator) | Scroll progress indicator | [Live Demo](https://scroll-indicator-xi.vercel.app/) |
+| [Tabs](./Tabs) | Tab-based content switching component | [Live Demo](https://tabs-opal.vercel.app/) |
 
 ## Concepts Practiced
 
