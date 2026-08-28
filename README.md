@@ -10,7 +10,7 @@ These projects focus on core React concepts such as state management, props, eve
 |---|---|---|
 | [Recursive Menu](./Recursive-Menu) | Dynamic nested menu using recursive components | [Live Demo](https://react-tree-menu.vercel.app/) |
 | [Load More Products](./LoadMoreProducts) | Product list with API data and load more functionality | [Live Demo](https://load-more-products.vercel.app/) |
-| [Image Slider](./Image-Slider) | Image slider with previous and next navigation | [Live Demo](https://react-image-slider-psi.vercel.app/) |
+| [Image Slider](./Image-Slider) | Image slider with previous and next navigation | [Live Demo](https://image-slider-delta-two.vercel.app/) |
 | [Star Rating](./Star-Rating) | Interactive star rating component | [Live Demo](https://star-rating-neon.vercel.app/) |
 | [Light/Dark Theme Mode](./Light-Dark-Theme-Mode) | Theme switching with persistent theme state | [Live Demo](https://light-dark-theme-mode.vercel.app/) |
 | [Accordion](./Accordion) | Expandable accordion component | [Live Demo](https://react-projects-nine-dun.vercel.app/) |
