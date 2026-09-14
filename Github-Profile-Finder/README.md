@@ -1,16 +1,42 @@
-# React + Vite
+# GitHub Profile Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A GitHub profile search application built with React that allows users to search for GitHub users and view their profile information using the GitHub API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Searches for GitHub users by username
+- Fetches profile information from the GitHub API
+- Displays the user's profile details
+- Shows profile avatar and username
+- Displays follower and following counts
+- Shows the user's public repository count
+- Provides a link to the user's GitHub profile
+- Handles API requests dynamically
+- Updates profile information without reloading the page
 
-## React Compiler
+## Concepts Practiced
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React components
+- Props
+- `useState`
+- API requests
+- GitHub API
+- `fetch`
+- `async/await`
+- Array and object handling
+- Conditional rendering
+- Event handling
+- State updates
+- Form/input handling
+- Dynamic data rendering
 
-## Expanding the ESLint configuration
+## Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- CSS
+- Vite
+
+## Live Demo
+
+[View Live Demo](https://github-profile-finder-lemon-nine.vercel.app/)
