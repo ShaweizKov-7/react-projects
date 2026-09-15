@@ -1,16 +1,44 @@
-# React + Vite
+# Tic-Tac-Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A classic Tic-Tac-Toe game built with React that allows players to play against another human or challenge a CPU opponent powered by the Minimax algorithm.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Play against another human
+- Play against a CPU opponent
+- CPU makes moves using the Minimax algorithm
+- Detects winning combinations
+- Detects draws when the board is full
+- Displays the current player's turn
+- Disables occupied squares
+- Prevents moves after the game ends
+- Reset the game at any time
+- Switch between Human and CPU game modes
 
-## React Compiler
+## Concepts Practiced
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React components
+- Props
+- `useState`
+- Event handling
+- State updates
+- Array manipulation
+- Array mapping
+- Conditional rendering
+- Game state management
+- Functions
+- Recursion
+- Minimax algorithm
+- Game tree evaluation
+- Basic algorithmic decision making
 
-## Expanding the ESLint configuration
+## Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- CSS
+- Vite
+
+## Live Demo
+
+[View Live Demo](https://tic-tac-toe-phi-seven-64.vercel.app/)
