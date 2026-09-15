@@ -74,3 +74,10 @@
 .play-cpu {
     background-color: rgb(192, 40, 35);
 }
+
+
+@media(max-width: 575px){
+    .btns {
+        flex-direction: column;
+    }
+}
